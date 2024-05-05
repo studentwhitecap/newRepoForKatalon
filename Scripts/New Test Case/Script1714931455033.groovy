@@ -17,3 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.google.com/')
+
+WebUI.click(findTestObject('Object Repository/test1/Page_Google/div_Accept all'))
+
+WebUI.click(findTestObject('Object Repository/test1/Page_Google/img_Sign in_lnXdpd'))
+
+WebUI.closeBrowser()
+
