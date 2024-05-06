@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Enterprise</name>
+   <tag></tag>
+   <elementGuidId>210ac24c-92a5-4570-9dc0-b2c9a3d56c10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='query-builder-test-result-enterprise']/a/span[2]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ActionListItem-label.text-normal > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Enterprise Learn More&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>36d80a2d-8ec3-4488-ba34-9d44ae806f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enterprise</value>
+      <webElementGuid>c393b45a-2eae-4d8d-af1b-f43941ef675a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;query-builder-test-result-enterprise&quot;)/a[@class=&quot;QueryBuilder-ListItem-link ActionListContent ActionListContent--visual16 QueryBuilder-ListItem&quot;]/span[@class=&quot;ActionListItem-descriptionWrap&quot;]/span[@class=&quot;ActionListItem-label text-normal&quot;]/span[1]</value>
+      <webElementGuid>d68b069b-bc03-4a9a-b437-03ff8000ac57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='query-builder-test-result-enterprise']/a/span[2]/span/span</value>
+      <webElementGuid>5774e9a3-dd34-491b-8d2b-4772416040ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/following::span[4]</value>
+      <webElementGuid>7ba41cae-a764-4873-8da4-7f446312623c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::span[7]</value>
+      <webElementGuid>7fa9b55c-18be-4fa8-ada9-7b9db015b5b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security'])[2]/preceding::span[3]</value>
+      <webElementGuid>11d0621a-01d7-45aa-b9ba-2c3137a19c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copilot'])[2]/preceding::span[8]</value>
+      <webElementGuid>490394b7-a880-4f9d-9261-3547b7a92378</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/span</value>
+      <webElementGuid>c47929ba-a4b2-4c29-b66e-40d3cacff104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Enterprise' or . = 'Enterprise')]</value>
+      <webElementGuid>6ef5b334-84dc-4a26-b75e-93d7c44e38e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
