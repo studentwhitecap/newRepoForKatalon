@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 124.0.0.0,,,05-05-2024 23:22:32,05-05-2024 23:22:43,11.463s,PASSED
+,,,,,,,
+Test Cases/New Test Case,Chrome 124.0.0.0,,,05-05-2024 23:22:32,05-05-2024 23:22:43,11.112s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,05-05-2024 23:22:32,05-05-2024 23:22:35,2.218s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 124.0.0.0,,,05-05-2024 23:22:35,05-05-2024 23:22:41,5.932s,PASSED
+"click(findTestObject(""Object Repository/test1/Page_Google/div_Accept all""))",Chrome 124.0.0.0,,,05-05-2024 23:22:41,05-05-2024 23:22:42,1.652s,PASSED
+"click(findTestObject(""Object Repository/test1/Page_Google/img_Sign in_lnXdpd""))",Chrome 124.0.0.0,,,05-05-2024 23:22:42,05-05-2024 23:22:43,0.557s,PASSED
+closeBrowser(),Chrome 124.0.0.0,,,05-05-2024 23:22:43,05-05-2024 23:22:43,0.430s,PASSED

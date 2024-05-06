@@ -19,11 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com/')
+WebUI.navigateToUrl('https://github.com/')
 
-WebUI.click(findTestObject('Object Repository/test1/Page_Google/div_Accept all'))
+WebUI.click(findTestObject('Object Repository/test1/Page_GitHub Lets build from here  GitHub/span_Search or jump to'))
 
-WebUI.click(findTestObject('Object Repository/test1/Page_Google/img_Sign in_lnXdpd'))
+WebUI.click(findTestObject('Object Repository/test1/Page_GitHub Lets build from here  GitHub/span_Enterprise'))
 
 WebUI.closeBrowser()
 
